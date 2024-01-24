@@ -1,0 +1,3 @@
+:ID,:START_ID(Person),:END_ID(Station),:TYPE
+eps1,p1,s28,LIVES_NEAR
+eps2,p2,s42,LIVES_NEAR

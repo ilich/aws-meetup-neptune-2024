@@ -1,0 +1,14 @@
+:ID(Line),name:String,color:String,:LABEL
+l7,Jubilee Line,#767b7f,Line
+l4,District Line,#0d6928,Line
+l6,Hammersmith & City Line,#f5a6b3,Line
+l8,Metropolitan Line,#8b004c,Line
+l9,Northern Line,#000000,Line
+l10,Piccadilly Line,#002d73,Line
+l2,Central Line,#df002c,Line
+l11,Victoria Line,#0076bd,Line
+l1,Bakerloo Line,#ab6612,Line
+l12,Waterloo & City Line,#89cbc1,Line
+l13,Docklands Light Railway,#00A77E,Line
+l3,Circle Line,#f7dc00,Line
+l5,East London Line,#f3ba22,Line

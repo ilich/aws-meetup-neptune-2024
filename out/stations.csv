@@ -1,0 +1,309 @@
+:ID(Station),name:String,:LABEL
+s1,Acton Town,Station
+s2,Aldgate,Station
+s3,Aldgate East,Station
+s4,All Saints,Station
+s5,Alperton,Station
+s7,Angel,Station
+s8,Archway,Station
+s9,Arnos Grove,Station
+s10,Arsenal,Station
+s11,Baker Street,Station
+s12,Balham,Station
+s13,Bank,Station
+s14,Barbican,Station
+s15,Barking,Station
+s16,Barkingside,Station
+s17,Barons Court,Station
+s18,Bayswater,Station
+s19,Beckton,Station
+s20,Beckton Park,Station
+s21,Becontree,Station
+s22,Belsize Park,Station
+s24,Bethnal Green,Station
+s25,Blackfriars,Station
+s26,Blackhorse Road,Station
+s27,Blackwall,Station
+s28,Bond Street,Station
+s29,Borough,Station
+s30,Boston Manor,Station
+s31,Bounds Green,Station
+s32,Bow Church,Station
+s33,Bow Road,Station
+s34,Brent Cross,Station
+s36,Bromley-By-Bow,Station
+s38,Burnt Oak,Station
+s39,Caledonian Road,Station
+s40,Camden Town,Station
+s42,Canary Wharf,Station
+s44,Cannon Street,Station
+s45,Canons Park,Station
+s47,Chalk Farm,Station
+s48,Chancery Lane,Station
+s49,Charing Cross,Station
+s51,Chigwell,Station
+s52,Chiswick Park,Station
+s54,Clapham Common,Station
+s55,Clapham North,Station
+s56,Clapham South,Station
+s58,Colindale,Station
+s59,Colliers Wood,Station
+s60,Covent Garden,Station
+s61,Crossharbour & London Arena,Station
+s63,Custom House,Station
+s65,Cyprus,Station
+s66,Dagenham East,Station
+s67,Dagenham Heathway,Station
+s70,Devons Road,Station
+s71,Dollis Hill,Station
+s72,Ealing Broadway,Station
+s73,Ealing Common,Station
+s74,Earl's Court,Station
+s75,Eastcote,Station
+s76,East Acton,Station
+s77,East Finchley,Station
+s78,East Ham,Station
+s79,East India,Station
+s80,East Putney,Station
+s81,Edgware,Station
+s82,Edgware Road (B),Station
+s83,Edgware Road (C),Station
+s84,Elephant & Castle,Station
+s85,Elm Park,Station
+s87,Embankment,Station
+s89,Euston,Station
+s90,Euston Square,Station
+s91,Fairlop,Station
+s92,Farringdon,Station
+s93,Finchley Central,Station
+s94,Finchley Road,Station
+s95,Finsbury Park,Station
+s96,Fulham Broadway,Station
+s97,Gallions Reach,Station
+s98,Gants Hill,Station
+s99,Gloucester Road,Station
+s100,Golders Green,Station
+s101,Goldhawk Road,Station
+s102,Goodge Street,Station
+s103,Grange Hill,Station
+s104,Great Portland Street,Station
+s105,Greenford,Station
+s107,Green Park,Station
+s108,Gunnersbury,Station
+s109,Hainault,Station
+s110,Hammersmith,Station
+s111,Hampstead,Station
+s112,Hanger Lane,Station
+s113,Harlesden,Station
+s114,Harrow & Wealdstone,Station
+s115,Harrow-on-the-Hill,Station
+s116,Hatton Cross,Station
+s117,"Heathrow Terminals 1, 2 & 3",Station
+s118,Heathrow Terminal 4,Station
+s119,Hendon Central,Station
+s120,Heron Quays,Station
+s122,High Street Kensington,Station
+s123,Highbury & Islington,Station
+s124,Highgate,Station
+s125,Hillingdon,Station
+s126,Holborn,Station
+s127,Holland Park,Station
+s128,Holloway Road,Station
+s129,Hornchurch,Station
+s130,Hounslow Central,Station
+s131,Hounslow East,Station
+s132,Hounslow West,Station
+s133,Hyde Park Corner,Station
+s134,Ickenham,Station
+s135,Island Gardens,Station
+s136,Kennington,Station
+s137,Kensal Green,Station
+s138,Kensington (Olympia),Station
+s139,Kentish Town,Station
+s140,Kenton,Station
+s141,Kew Gardens,Station
+s142,Kilburn,Station
+s143,Kilburn Park,Station
+s144,Kingsbury,Station
+s145,King's Cross St. Pancras,Station
+s146,Knightsbridge,Station
+s147,Ladbroke Grove,Station
+s148,Lambeth North,Station
+s149,Lancaster Gate,Station
+s150,Latimer Road,Station
+s151,Leicester Square,Station
+s153,Leyton,Station
+s154,Leytonstone,Station
+s155,Limehouse,Station
+s156,Liverpool Street,Station
+s157,London Bridge,Station
+s159,Maida Vale,Station
+s160,Manor House,Station
+s161,Mansion House,Station
+s162,Marble Arch,Station
+s163,Marylebone,Station
+s164,Mile End,Station
+s165,Mill Hill East,Station
+s166,Monument,Station
+s167,Moorgate,Station
+s168,Moor Park,Station
+s169,Morden,Station
+s170,Mornington Crescent,Station
+s171,Mudchute,Station
+s172,Neasden,Station
+s173,Newbury Park,Station
+s176,Northfields,Station
+s177,Northolt,Station
+s178,Northwick Park,Station
+s179,Northwood,Station
+s180,Northwood Hills,Station
+s181,North Acton,Station
+s182,North Ealing,Station
+s184,North Harrow,Station
+s185,North Wembley,Station
+s186,Notting Hill Gate,Station
+s188,Old Street,Station
+s190,Osterley,Station
+s191,Oval,Station
+s192,Oxford Circus,Station
+s193,Paddington,Station
+s194,Park Royal,Station
+s195,Parsons Green,Station
+s196,Perivale,Station
+s197,Piccadilly Circus,Station
+s198,Pimlico,Station
+s199,Pinner,Station
+s200,Plaistow,Station
+s201,Poplar,Station
+s202,Preston Road,Station
+s203,Prince Regent,Station
+s205,Putney Bridge,Station
+s206,Queen's Park,Station
+s207,Queensbury,Station
+s208,Queensway,Station
+s209,Ravenscourt Park,Station
+s210,Rayners Lane,Station
+s211,Redbridge,Station
+s212,Regent's Park,Station
+s213,Richmond,Station
+s215,Roding Valley,Station
+s216,Rotherhithe,Station
+s217,Royal Albert,Station
+s218,Royal Oak,Station
+s219,Royal Victoria,Station
+s220,Ruislip,Station
+s222,Ruislip Manor,Station
+s223,Russell Square,Station
+s224,Seven Sisters,Station
+s225,Shadwell,Station
+s226,Shepherd's Bush (C),Station
+s227,Shepherd's Bush (H),Station
+s228,Shoreditch,Station
+s229,Sloane Square,Station
+s230,Snaresbrook,Station
+s231,Southfields,Station
+s234,South Ealing,Station
+s235,South Harrow,Station
+s236,South Kensington,Station
+s237,South Kenton,Station
+s238,South Quay,Station
+s239,South Ruislip,Station
+s240,South Wimbledon,Station
+s241,South Woodford,Station
+s242,Stamford Brook,Station
+s243,Stanmore,Station
+s244,Stepney Green,Station
+s245,Stockwell,Station
+s246,Stonebridge Park,Station
+s247,Stratford,Station
+s248,St. James's Park,Station
+s249,St. John's Wood,Station
+s250,St. Paul's,Station
+s251,Sudbury Hill,Station
+s252,Sudbury Town,Station
+s253,Surrey Quays,Station
+s254,Swiss Cottage,Station
+s255,Temple,Station
+s257,Tooting Bec,Station
+s258,Tooting Broadway,Station
+s259,Tottenham Court Road,Station
+s260,Tottenham Hale,Station
+s262,Tower Gateway,Station
+s263,Tower Hill,Station
+s264,Tufnell Park,Station
+s265,Turnham Green,Station
+s266,Turnpike Lane,Station
+s267,Upminster,Station
+s268,Upminster Bridge,Station
+s269,Upney,Station
+s270,Upton Park,Station
+s271,Uxbridge,Station
+s272,Vauxhall,Station
+s273,Victoria,Station
+s274,Walthamstow Central,Station
+s275,Wanstead,Station
+s276,Wapping,Station
+s277,Warren Street,Station
+s278,Warwick Avenue,Station
+s279,Waterloo,Station
+s281,Wembley Central,Station
+s282,Wembley Park,Station
+s283,Westbourne Park,Station
+s284,Westferry,Station
+s285,Westminster,Station
+s286,West Acton,Station
+s287,West Brompton,Station
+s288,West Finchley,Station
+s289,West Ham,Station
+s290,West Hampstead,Station
+s291,West Harrow,Station
+s292,West India Quay,Station
+s293,West Kensington,Station
+s294,West Ruislip,Station
+s295,Whitechapel,Station
+s296,White City,Station
+s297,Willesden Green,Station
+s298,Willesden Junction,Station
+s299,Wimbledon,Station
+s300,Wimbledon Park,Station
+s301,Woodford,Station
+s302,Woodside Park,Station
+s303,Wood Green,Station
+s35,Brixton,Station
+s6,Amersham,Station
+s23,Bermondsey,Station
+s50,Chesham,Station
+s46,Chalfont & Latimer,Station
+s53,Chorleywood,Station
+s214,Rickmansworth,Station
+s62,Croxley,Station
+s280,Watford,Station
+s221,Ruislip Gardens,Station
+s121,High Barnet,Station
+s261,Totteridge & Whetstone,Station
+s57,Cockfosters,Station
+s187,Oakwood,Station
+s232,Southgate,Station
+s88,Epping,Station
+s256,Theydon Bois,Station
+s68,Debden,Station
+s158,Loughton,Station
+s37,Buckhurst Hill,Station
+s204,Pudding Mill Lane,Station
+s233,Southwark,Station
+s41,Canada Water,Station
+s43,Canning Town,Station
+s183,North Greenwich,Station
+s64,Cutty Sark,Station
+s106,Greenwich,Station
+s69,Deptford Bridge,Station
+s86,Elverson Road,Station
+s152,Lewisham,Station
+s174,New Cross,Station
+s175,New Cross Gate,Station
+s304,West Silvertown,Station
+s307,King George V,Station
+s305,Pontoon Dock,Station
+s306,London City Airport,Station
+s308,Heathrow Terminal 5,Station
+s309,Wood Lane,Station
